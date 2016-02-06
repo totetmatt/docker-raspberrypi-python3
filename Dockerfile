@@ -1,3 +1,4 @@
+# Based on https://github.com/hypriot/rpi-python/blob/master/Dockerfile
 # Pull base image
 FROM resin/rpi-raspbian:wheezy
 MAINTAINER Matthieu Totet <matthieu.totet@gmail.com>
